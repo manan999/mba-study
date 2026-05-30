@@ -79,13 +79,9 @@ identify the issues related with store operations in internet retailing.
 
 Structure
 
-13.1
+13.1 Introduction
 
-13.2
-
-Introduction
-
-Importance of Store Operations Planning
+13.2 Importance of Store Operations Planning
 
 13.3 Store Operations: Overview
 
@@ -964,9 +960,7 @@ acquaint  how to carry out performance measurement for retailer.
 
 Structure
 
-14.1
-
-Introduction
+14.1 Introduction
 
 14.2 The Sourcing Process
 
@@ -976,9 +970,7 @@ Introduction
 
 14.5 Warehousing and  Stocking
 
-14.6
-
-Inventory Management
+14.6 Inventory Management
 
 14.7 How Much to Order and When?
 
@@ -2146,9 +2138,7 @@ elaborate the steps in process management.
 
 Structure
 
-15.1
-
-Introduction to Important Essential Element in Retail Mix
+15.1 Introduction to Important Essential Element in Retail Mix
 
 15.1.1 Retail Mix– Elements of Service Mix
 
@@ -2160,9 +2150,7 @@ Introduction to Important Essential Element in Retail Mix
 
 15.5 Process Management: Essential element in Retail Mix
 
-15.6
-
-Importance of Process Management in Retail Management
+15.6 Importance of Process Management in Retail Management
 
 15.6.1 Simplified model of Process
 

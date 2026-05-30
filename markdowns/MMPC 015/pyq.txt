@@ -1,0 +1,199 @@
+[20 Marks each]
+
+Unit 1: Research Methodology: An Overview
+
+1.  (x 1) What do you mean by the term 'research' ? What are the different types of research ? Discuss the role of research in day-to-day business activities with suitable examples.
+    (x 1) Define research and explain the different types of research with suitable examples.
+
+2. What is research methodology ? Give a brief account of mathematical tools for the analysis in research methodology.
+
+3. 'A research scholar has to work as a judge and derive the truth and not as a pleader who is only eager to prove his case in favour of his plaintiff.' Discuss the statement, pointing out the objectives of the research.
+
+
+Unit 2: Steps for Research Process
+
+4.  (x 1) What do you mean by research process ? What are the series of steps necessary to effectively carry out research ? Discuss.
+    (x 1) What do you mean by research process ? Explain the steps in formulating a research problem.
+    (x 1) What are the sources of a research topic ? What do you consider in selecting a research problem ? Discuss the steps in formulating a research problem.
+
+5. 'Knowing what data are available often serves to narrow down the problem itself as well as the technique that might be used.' Explain the underlying idea in this statement in the context of defining a research problem.
+
+6. What do you mean by review of literature ? What are the various types of literature reviews carried out by the researchers ? Discuss the role of literature review in the research.
+
+
+Unit 3: Research Designs
+
+7. 'Research design in exploratory studies must be flexible, but in descriptive studies, it must minimise bias and maximise reliability.' Discuss.
+
+8. What is research design ? What are the different types of research designs ? Discuss.
+
+9. [Short Note] (x 1) Quasi and True Experimental Designs
+
+10. [Short Note] (x 1) The field experiments
+
+11. [Short Note] (x 1) Internal validity and external validity
+
+12. [Short Note] (x 1) Research design
+
+
+Unit 4: Methods and Techniques of Data Collection
+
+13.  (x 1) What are the various data collection methods ? Discuss the merits and demerits of collecting primary and secondary data.
+     (x 1) What are the merits and demerits of different methods of collecting primary data ? Explain.
+
+14. What is secondary data ? State their main sources and point out the dangers involved in their use and the precautions necessary to use them. Illustrate with examples.
+
+15. [Short Note] (x 1) Observation method
+
+16. [Short Note] (x 1) Interview method
+
+17. [Short Note] (x 1) Primary data
+
+18. [Short Note] (x 1) Secondary data
+
+
+Unit 5: Attitude Measurement and Scales
+
+19. What do you understand by the terms 'attitude' and 'attitude measurement' ? Discuss.
+
+20.  (x 1) What are the different types of attitude measurement scales ? Compare and contrast the various attitude measurement techniques.
+     (x 1) What are the various types of scales and scaling techniques ? Discuss the Thurstone's equal-appearing interval scale.
+
+21. [Short Note] (x 2) The Semantic Differential Scale
+
+22. [Short Note] (x 1) Different types of scaling techniques in research
+
+23. [Short Note] (x 1) Multidimensional Scaling
+
+24. [Short Note] (x 1) The Q-Sort Technique
+
+
+Unit 6: Questionnaire Designing
+
+25.  (x 1) What are the various formats of questionnaires ? Discuss the steps involved in the design of a questionnaire.
+     (x 1) Explain the steps in designing a questionnaire.
+
+26. What is a questionnaire ? Why is a questionnaire used ? What are the three main guiding considerations in the construction of the questionnaire ? Explain with suitable examples.
+
+27. 'A questionnaire is the most popular method of data collection.' Do you agree ? Justify your answer and explain the guidelines for using this method.
+
+28. [Short Note] (x 2) The questionnaire method / Questionnaire method
+
+29. [Short Note] (x 1) Pilot study
+
+
+Unit 7: Sampling and Sampling Designs
+
+30. What do you mean by sampling design ? What point should be taken into consideration while developing the sampling design for studying the problems of domestic airline passengers ? Discuss.
+
+31.  (x 1) What is sampling ? State when non-random sampling is suitable with suitable examples.
+     (x 1) What are the various non-probability sampling methods ? Discuss their use in business and government.
+
+32. Explain random sampling and outline the different methods of random sampling.
+
+33. [Short Note] (x 1) Sampling Frame
+
+34. [Short Note] (x 2) Quota Sampling
+
+35. [Short Note] (x 1) Random sampling
+
+36. [Short Note] (x 1) Judgment Sampling
+
+37. [Short Note] (x 1) Non-random sampling
+
+
+Unit 8: Data Processing
+
+38.  (x 1) Describe, in brief, the importance of editing, coding, classification, tabulation and presentation of data in the context of the research study.
+     (x 1) What is data processing in the research ? What are the various types of data classification in the research ? Explain the significance of data presentation in the research.
+     (x 1) What is data processing in research ? Describe various types of data classification.
+
+39. [Short Note] (x 3) Coding of data / Coding
+
+40. [Short Note] (x 1) Editing of Data
+
+41. [Short Note] (x 1) Bar chart
+
+42. [Short Note] (x 1) Line or Arithmetic Chart
+
+
+Unit 9: Statistical Analysis and Interpretation of Data: Nonparametric
+
+43.  (x 1) What are the various non-parametric tests ? Explain the difference between parametric and non-parametric tests.
+     (x 1) Distinguish between parametric and non-parametric tests. What is the importance of non-parametric tests ? Discuss.
+
+44.  (x 3) The data given below is on a large industrial plant's daily emission of sulphur oxides (in tons) :
+
+     | 17 | 15 | 20 | 29 | 19 | 18 | 22 | 25 | 27 | 9  |
+     |----|----|----|----|----|----|----|----|----|----|
+     | 24 | 20 | 17 | 6  | 24 | 14 | 15 | 23 | 24 | 26 |
+     | 19 | 23 | 28 | 19 | 16 | 22 | 24 | 17 | 20 | 13 |
+     | 19 | 10 | 23 | 18 | 31 | 13 | 20 | 17 | 24 | 14 |
+
+     Use the one-sample sign test to test the null hypothesis that the plant's true average daily emission of sulphur oxide is μ = 23.5 tons against the alternative hypothesis μ < 23.5 tons at the 0.05 level of significance. (Given tabulated value of test statistic is 1.645 / 1.96).
+
+45.  (x 1) The arithmetic addition scores for 27 individuals are given in the following table belonging to two groups. Use Chi-square test to test the hypothesis of no difference between these two sets of scores at 5 per cent level of significance :
+
+     | Group-I  | 12 | 16 | 18 | 7  | 6  | 4  | 11 | 12 | 8  | 20 | 18 | 16 | 10 | 4  |
+     |----------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+     | Group-II | 7  | 12 | 14 | 18 | 5  | 16 | 9  | 10 | 14 | 3  | 18 | 9  | 7  |    |
+
+     Given χ²-tabulated value at 1 degree of freedom at 5 per cent is 6.63.
+
+46.  (x 2) Following are the scores obtained by two groups of students in a competitive examination. Test whether the two groups belong to the same population by Mann-Whitney U-test :
+
+     | Group A | Group B |
+     |---------|---------|
+     | 51      | 95      |
+     | 68      | 82      |
+     | 90      | 65      |
+     | 81      | 85      |
+     | 30      | 65      |
+     | 46      | 81      |
+     | 99      | 50      |
+     | 98      | 60      |
+     | 11      | 15      |
+     | 06      | 05      |
+     | 19      | 35      |
+     | 43      | 32      |
+
+     Given: The tabulated value of test statistic at 5% is 1.96.
+
+47. [Short Note] (x 1) Chi-Square Test
+
+48. [Short Note] (x 1) The Mann-Whitney U-test
+
+
+Unit 10: Multivariate Analysis of Data
+
+49.  (x 1) Calculate the regression coefficient and obtain the lines of regression of Y on X for the following data :
+
+     | X | 1 | 2 | 3 | 4  | 5  | 6  | 7  |
+     |---|---|---|---|----|----|----|----|
+     | Y | 9 | 8 | 10| 12 | 11 | 13 | 14 |
+
+50. [Short Note] (x 1) Factor analysis
+
+51. [Short Note] (x 1) Discriminant Analysis
+
+
+Unit 11: Ethics in Research
+
+52. (x 2) What do you mean by ethics in research ? Discuss the principles of research ethics.
+
+
+Unit 12: Substance of Reports
+
+53. (x 3) What kind of questions will arise while reviewing the draft report before submission ? Discuss/Elaborate.
+
+
+Unit 13: Formats of Reports
+
+54. [Short Note] (x 1) Parts of a report
+
+55. [Short Note] (x 1) Proof-reading
+
+
+Unit 14: Presentation of a Report
+
+56. [Short Note] (x 1) Audio-visual Aids

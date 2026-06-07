@@ -1,0 +1,139 @@
+[20 Marks each]
+
+Unit 1 Basics concepts and methods
+
+1.  (x 1) How did the concept of quality management evolve ? Discuss the overview of quality management.
+
+2.  (x 1) Critically analyse the importance of quality in the present times. Why did the concept of quality not evolve with the growth of Taylorism ? Justify.
+
+3.  (x 1) What do you understand by standardisation ? Discuss the importance of standardisation in quality management.
+
+4.  (x 1) Which fundamental ideas underpin Total Quality Management (TQM) ? Explain how TQM is different from conventional methods of quality management.
+
+
+Unit 2 Quality Management: Leading Thinkers
+
+5.  (x 1) Discuss the Crosby School of Total Quality Management.
+
+
+Unit 3 Building Blocks of TQM
+
+6.  (x 1) Why is TQM important for organisations in the present context ? Discuss giving examples.
+
+7.  (x 1) Discuss the core values of Total Quality Management. What is the role of top management in TQM ?
+
+8.  (x 1) What are the 3-Mus checkpoints of Kaizen activities ? Explain them with respect to Total Quality Management.
+
+9.  (x 1) Explain how does TQM address waste reduction and efficiency improvement.
+
+10. (x 1) Explain with the help of examples, how an organization will guarantee continuous TQM improvement.
+
+11. [Short Note] (x 1) Brainstorming
+
+
+Unit 4 Economics of Quality
+
+12. (x 1) Discuss different approaches to quality costs.
+
+13. (x 1) Describe different types of quality costs. Explain giving examples.
+
+
+Unit 5 TQM and Business Strategy
+
+14. (x 1) What is the role of TQM in formulating the strategy of any organisation ? Explain.
+
+15. (x 1) Explain how the quality can be enhanced by increasing the market share and the profitability of an organization. Illustrate with the help of an example.
+
+16. (x 1) Is quality an integral part of the strategic process or not ? Justify your answer with the helps of an example.
+
+17. (x 1) 'Quality and business are on and indivisible.' Do you agree with this statement ? Justify citing examples.
+
+18. (x 1) What impact does TQM have on customer satisfaction ? Elucidate with the help of suitable examples.
+
+19. (x 1) Does TQM foster innovation within organizations ? Elucidate with the help of examples.
+
+
+Unit 6 Quality Centred Strategic Planning
+
+20. (x 1) What is Quality-centered Strategic Planning ? Discuss how it is related to quality. Explain.
+
+
+Unit 7 Statistical Quality Control
+
+21. (x 1) Discuss different types of sampling techniques giving examples.
+
+22. (x 2) What are seven quality improvement tools ? Explain each of them / Elaborate upon the seven quality improvement tools which form the basis for decisions and actions in an organization.
+
+23. (x 1) What role does data analysis play in TQM ? Illustrate with the help of examples.
+
+
+Unit 8 Tools and Techniques of TQM
+
+24. (x 2) What do you understand by Benchmarking ? Explain different types of benchmarking approaches / with the help of examples.
+
+25. (x 1) What do you mean by the term 'Reliability' ? Explain the concept of reliability curve with respect to Quality Management.
+
+26. (x 1) Explain the concept of 'Re-engineering'. How does it help in maintaining the quality in an organization ? Discuss.
+
+27. (x 1) Describe the concept of 'zero defects' in TQM giving examples.
+
+28. (x 1) Describe the standard tools and methods which are employed in TQM.
+
+
+Unit 9 Organization for Quality
+
+29. (x 1) Discuss the role of the steering committee in implementing Total Quality Management (TQM).
+
+30. (x 1) What do you mean by Management Control and Data Management ? Explain the concept with respect to Quality Management.
+
+31. [Short Note] (x 1) Implementation values
+
+
+Unit 10 Quality Culture and Leadership
+
+32. (x 2) Explain the role of leadership in TQM / How does leadership fit into the TQM implementation process ? Explain with the help of examples.
+
+33. (x 1) Explain the role of motivation in TQM. Give suitable examples.
+
+34. (x 1) What is the role of continuing education for all in Total Quality Management ? Explain with the help of a relevant example.
+
+35. (x 1) Does TQM implementation affect the organizational culture ? Justify with the help of examples.
+
+36. (x 1) What is the role of workers in the TQM implementation process ? Illustrate with the help of examples.
+
+
+Unit 11 ISO 9000 Quality Management System
+
+37. (x 1) What is ISO 9000 ? What are the requirements of ISO 9000 ?
+
+38. (x 1) How does TQM integrate with other management systems, such as ISO standards ? Elucidate with the help of examples.
+
+
+Unit 12 ISO 14000 Environmental Management System
+
+39. (x 1) How can an Environmental Management System (EMS) be developed based on ISO 14001 QMS ? Explain with the help of relevant example.
+
+
+Unit 13 Other Standards
+
+40. (x 1) List and describe the General Occupational Health problems with respect to the Management Systems for safety in organizations.
+
+41. (x 1) What do you understand by safety management ? Describe the role of safety management in TQM.
+
+
+Unit 14 Management Systems for Safety and Health
+
+42. (x 1) What is ISO-20000 ? What are the requirements of ISO-20000 ?
+
+
+Unit 15 Quality Auditing and Certification
+
+43. (x 1) Discuss the concept of quality system audit. Explain different types of audit.
+
+44. (x 1) Discuss the role of quality audit in TQM.
+
+45. (x 1) Discuss the fundamental concept of excellence in TQM.
+
+46. [Short Note] (x 1) Quality audit
+
+47. [Short Note] (x 1) Certification

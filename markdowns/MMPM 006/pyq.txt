@@ -1,0 +1,130 @@
+[20 Marks each]
+
+Unit 1 Marketing Research: An Introduction
+
+1.  (x 3) Define Marketing Research. Discuss the different stages of the marketing research process.
+    (x 1) State the application areas and limitations of marketing research.
+    (x 1) Explain the scope of marketing research describing the decision areas where research results are used.
+
+2.  (x 1) What is the difference between a marketing information system (MIS) and marketing research ? Justify the need for marketing research.
+
+3.  (x 1) Discuss the growing importance of marketing research in India, the different ways of conducting it, and the scope of outsourcing marketing research services in India.
+
+4.  (x 1) Comment on the problems faced by researchers in conducting marketing research in India.
+
+
+Unit 2 Applications of Marketing Research and Ethical Issues
+
+5.  (x 1) Discuss the ethical issues that need to be considered while conducting marketing research.
+    [Short Note] Ethical issues in marketing research / Ethics in research.
+
+6.  (x 1) [Case Study] Choose appropriate research methods (primary vs. secondary data) to gather market research information to effectively promote a recently launched electric scooter company.
+
+7.  [Short Note] (x 1) Application of new technologies in marketing research
+
+
+Unit 3 Identifying and Defining Research Problems
+
+8.  (x 1) Describe the methods to convert a decision area to research objectives with the help of relevant examples.
+
+
+Unit 4 Research Design Formulation
+
+9.  (x 1) What is a research design ? Explain how it serves as a detailed blueprint for the research study, and explain the various types of research designs used in different marketing situations.
+
+10. (x 2) Distinguish between Exploratory and Descriptive research designs with the help of examples.
+    [Short Note] Exploratory research design.
+
+11. (x 1) What principles would you consider to choose the type of design to be used for causal research ? Explain with examples.
+
+12. (x 2) What are the factors that influence an experiment's validity ? Elucidate with the help of examples.
+    [Short Note] Quasi Experimental design.
+
+13. (x 2) [Case Study] Recommend an appropriate research design, secondary data sources, and primary data needs for:
+    - (a) A car manufacturer launching a new mid-segment car variant.
+    - (b) A smart phone manufacturer looking to open company-owned retail stores in Northern India.
+
+
+Unit 5 Data Collection: Qualitative and Quantitative
+
+14. (x 2) Distinguish between primary and secondary data. Discuss their main sources, advantages, limitations, and the tools/methods used for collecting data from respondents.
+    [Short Note] Sources of secondary data.
+
+15. (x 2) Explain the different types of sources of error in primary data collection with examples.
+    [Short Note] Sources of errors in primary data-collection.
+
+16. [Short Note] (x 1) Uses of qualitative research
+
+17. (x 1) [Case Study] Suggest possible probability and non-probability sampling methods to study the effect of social media ads on fashion accessories for target users aged 15-25 years. Design a brief questionnaire for the study.
+
+
+Unit 6 Data Processing
+
+18. (x 1) Briefly discuss the importance of data editing, coding, and tabulation as part of a marketing research study.
+    [Short Note] Editing of Data.
+    [Short Note] Coding of Data.
+
+19. [Short Note] (x 2) Classification of data / Classification of Data.
+
+
+Unit 7 Hypothesis Testing
+
+20. (x 3) What is a hypothesis ? Explain the types, significance, and process of hypothesis testing in marketing research. Discuss the criteria for accepting or rejecting a research hypothesis.
+    [Short Note] Characteristics of good hypothesis.
+
+
+Unit 8 Correlation and Simple Linear Regression
+
+21. (x 1) Differentiate between correlation and regression. Support your answer with suitable examples.
+
+22. [Short Note] (x 1) Practical applications of correlation
+
+
+Unit 9 Multiple Regression Analysis
+
+*(No direct questions mapped)*
+
+
+Unit 10 Discriminant Analysis and Logistic Regression Analysis
+
+23. (x 1) What is logistic regression ? Describe the different types of logistic regression.
+
+24. [Short Note] (x 1) Assumptions of logistic regression
+
+
+Unit 11 Factor Analysis and Cluster Analysis
+
+25. (x 1) What is cluster analysis ? Describe the application of cluster analysis in marketing research.
+    [Short Note] Cluster analysis / Cluster Analysis.
+
+26. (x 1) What is factor analysis ? How does it help in the interpretation of results ?
+    [Short Note] Factor analysis.
+
+
+Unit 12 Conjoint Analysis and Multidimensional Scaling
+
+27. [Short Note] (x 2) Conjoint Analysis.
+    [Short Note] (x 1) Marketing applications of conjoint analysis.
+
+
+Unit 13 Big Data and Marketing Research
+
+28. [Short Note] (x 2) Application of big data in marketing research / Challenges in the application of Big data.
+
+
+Unit 14 Internet based Marketing Research
+
+29. (x 1) Discuss the advantages and limitations of online marketing research with the help of examples.
+
+30. (x 1) Briefly explain the steps involved in collecting data through Internet-based techniques, citing suitable examples.
+    [Short Note] Internet-based Marketing Research.
+    [Short Note] Purpose of online marketing research.
+    [Short Note] Steps in online marketing research / Techniques of online data collection.
+
+
+Unit 15 Marketing Research and Social Media
+
+31. (x 2) [Case Study] Design a social media marketing research process and explain the importance/benefits of social media research for:
+    - (a) A restaurant chain owner planning to expand via a Cloud Kitchen concept.
+    - (b) A bakery manufacturer marketing cookies to supermarkets.
+    [Short Note] Role of social media in marketing research / Benefits of social media in marketing research.
